@@ -1,4 +1,4 @@
-s# 1. Write a short description of what you understand a string
+# 1. Write a short description of what you understand a string
 # to be, in your own words.
 
 string can be defined as a data type enclosed in a quotation. The quotation must be used continously inorder to achieve the goal of string or it would be incorrect. To do the process, it requires a vaiable which stores the data called STRING.
