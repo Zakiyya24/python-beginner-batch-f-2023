@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# 1. Write a short description of what you understand a string
-=======
 s# 1. Write a short description of what you understand a string
->>>>>>> 5673f10d5a9bf43b6f850669fe9508508a4f5c71
 # to be, in your own words.
 
 string can be defined as a data type enclosed in a quotation. The quotation must be used continously inorder to achieve the goal of string or it would be incorrect. To do the process, it requires a vaiable which stores the data called STRING.
